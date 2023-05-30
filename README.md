@@ -13,4 +13,4 @@ el comando buscará un index.html dentro de la carpeta src y creará una rama pa
 proyecto creado previamente en Github. Ingresando a GitHub pages del repositorio de nuestro proyecto, encontraremos 
 la url pública. 
 En el caso de este proyecto: https://bryangaray99.github.io/Aync-landing-page/
-Para actualizar luego de algun cambio se puede volver a correr npm run deploy
+<p>Para actualizar luego de algun cambio se puede volver a correr npm run deploy.</p>
