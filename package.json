@@ -1,0 +1,17 @@
+{
+  "name": "aync-landing-page-",
+  "version": "1.0.0",
+  "description": "Proyecto del curso de Asincronismo con JavaScript de Platzi",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d src"
+  },
+  "keywords": [
+    "javascript"
+  ],
+  "author": "Bryan Garay Benavidez",
+  "license": "MIT",
+  "devDependencies": {
+    "gh-pages": "^5.0.0"
+  }
+}
